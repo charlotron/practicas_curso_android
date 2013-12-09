@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tiendecitas 2</string>
+    <string-array name="drawer_options">
+        <item>Imágenes</item>
+        <item>Tiendas</item>
+        <item>Comunidad</item>
+    </string-array>
+	<string name="action_favourite">Favoritos</string>
+	<string name="action_share">Compartir</string>
+	<string name="action_call">Llamar</string>
+		<string name="image_item_desc">Imagen de la Galería de Imagenes</string>
+	<string name="toggle_open">Abrir Menú Lateral</string>
+	<string name="toggle_close">Cerrar Menú Lateral</string>
+    <string-array name="tab_options">
+        <item>Listado</item>
+        <item>Mapa</item>
+    </string-array>		
+    <string name="shotCurImgDesc">Imágen de la tienda</string>
+    <string name="shotImgIconDesc">Comentario</string>	
+    <string name="descTimes">Horarios:</string>
+    <string name="descComment">Comentarios:</string>
+    <string name="call_button">LLAMAR</string>
+    <string name="gallery_button">¡Pulsa la foto!</string>
+    <string name="title_activity_shop_detail">Detalle de la Tienda</string>
+    <string name="title_activity_shot">Imagen de la Tienda</string>
+    <string name="community_text">Sección Comunidad (pronto)</string>
+    <string name="map_text">Sección Mapa (pronto)</string>
+    <string name="favourite_opt">Opción Favoritos (pronto)</string>
+    <string name="share_shop_txt">Echa un ojo a %1$S, %2$s.\nWeb: %3$s\nEmail: %5$s\nTeléfono: %4$s</string>
+    <string name="commentDo">Comentar</string>
+    <string name="detailCommentButtonDesc">Enviar mensaje</string>
+    <string name="no_comments">No hay comentario todavía</string>
+</resources>
