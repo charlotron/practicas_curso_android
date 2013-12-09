@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tiendecitas</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shop_detail">Tiendecitas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="descTimes">Horarios:</string>
+    <string name="call_button">LLAMAR</string>
+    <string name="gallery_button">Galería de Fotos</string>
+    <string name="title_activity_shot">Tiendecitas</string>
+
+    <string name="shotCurImgDesc">Imágen de la tienda</string>
+    <string name="shotImgIconDesc">Comentario</string>
+</resources>
